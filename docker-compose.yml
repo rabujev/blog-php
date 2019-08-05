@@ -10,7 +10,7 @@ services:
   # Base de données par défault: test
 
   db:
-    image: postgres:11.2
+    image: postgres:11.4
     ports:
       - "5000:5432"
     volumes:

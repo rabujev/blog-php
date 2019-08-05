@@ -16,7 +16,7 @@ A working and simple Slim-PHP script for blogging
 
 - Working environnement
 
-## Know issues
+## Known issues
 
 - probably a lot
 
